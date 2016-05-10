@@ -1,1 +1,11 @@
 target/
+.setting/
+.mvn/
+.classpath
+.project
+mvnw
+wvnw.cmd
+bin/
+static/
+data/
+.git/
